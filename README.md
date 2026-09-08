@@ -11,11 +11,19 @@ Implement an MLP network as a baseline model.
 Train the model and report performance metrics.
 Analyze errors using misclassified examples.
 Explain the limitations of using MLPs with images.
-Project Files
 
-The ZIP file included in this repository contains the Jupyter Notebook (.ipynb) with the complete project implementation, along with the dataset required to run and explore the notebook.
+How to Explore the Project?
+
+1)The ZIP file included in this repository contains the Jupyter Notebook (.ipynb) with the complete project implementation, along with the dataset required to run and explore the notebook.
 
 You can download the ZIP file and open the notebook with Google Colab to explore and run the project.
+
+The second option is:
+1.Clone this repository.
+
+2.Install the .ipynb (Jupyter Notebook) extension in your IDE.
+
+3.Run the code — simple as that!
 
 Authors
 
