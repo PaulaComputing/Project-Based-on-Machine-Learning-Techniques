@@ -1,4 +1,4 @@
-# Project-Based-on-Machine-Learning-Techniques
+# Multilayer Perceptron for Image Classification in Machine Learning
 
 
 We will guide the implementation of an MLP-style neural network model to solve a classification problem using one of the proposed datasets. The goal is not merely to achieve a high performance metric, but to understand the complete supervised learning workflow: data loading, preprocessing, class definition, training, validation, and results analysis.
